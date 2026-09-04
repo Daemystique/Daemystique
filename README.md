@@ -5,9 +5,12 @@ I am a self-driven software developer focused on building robust, invisible foun
 ---
 
 ### 🛠️ Technical Focus & Stack
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
 
 *   **Core Logic:** [Python / JavaScript / Node.js]
 *   **Databases:** [PostgreSQL / MongoDB] *(Leave these as goals for now!)*
