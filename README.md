@@ -3,14 +3,10 @@
 I am a self-driven software developer focused on building robust, invisible foundations. I specialize in backend architecture, system logic, and data structures—creating the silent pipelines that power applications from the dark.
 
 ---
-
 ### 🛠️ Technical Focus & Stack
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
+*   🐍 **Core Logic:** [Python / JavaScript / Node.js]
+*   🗄️ **Databases:** [PostgreSQL / MongoDB] *(Goals for later!)*
+*   💻 **Infrastructure:** Git, GitHub, Command Line Architecture
 
 *   **Core Logic:** [Python / JavaScript / Node.js]
 *   **Databases:** [PostgreSQL / MongoDB] *(Leave these as goals for now!)*
